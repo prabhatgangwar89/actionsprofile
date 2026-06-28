@@ -24,4 +24,4 @@ jobs:
       - name: Run tests
         run: mvn test
       - name: checkstyle
-        run: mvn checkstyle:check
+        run: mvn checkstyle:checkstyle
